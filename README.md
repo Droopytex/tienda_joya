@@ -41,7 +41,6 @@ Probando rutas GET por thunderClient
 
 ![Captura de Pantalla 2024-09-29 a la(s) 17 40 12](https://github.com/user-attachments/assets/acb60799-2586-498d-9947-20423b3abc14)
 
-#Probando los filtros
 ![Captura de Pantalla 2024-09-29 a la(s) 17 31 20](https://github.com/user-attachments/assets/c5b166df-d84e-474a-a388-233ebe28dfe0)
 
 ![Captura de Pantalla 2024-09-29 a la(s) 17 13 40](https://github.com/user-attachments/assets/1650fd7b-a9a6-4e7f-a732-00e7d3763b5c)
